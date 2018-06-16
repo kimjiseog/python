@@ -1,0 +1,37 @@
+{
+    "people": [
+        {
+            "name": "kim",
+            "website": "naver.com",
+            "from": "seoul",
+            "grade": [
+                95,
+                77,
+                89,
+                91
+            ]
+        },
+        {
+            "name": "park",
+            "website": "google.com",
+            "from": "busan",
+            "grade": [
+                85,
+                67,
+                100,
+                93
+            ]
+        },
+        {
+            "name": "lee",
+            "website": "daum.net",
+            "from": "iechone",
+            "grade": [
+                98,
+                79,
+                99,
+                92
+            ]
+        }
+    ]
+}
